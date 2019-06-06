@@ -4,31 +4,26 @@
 body{
     background-color: slateblue;
     text-align: justify;
-    max-width: 700px;
-    font-family: Arial, Helvetica, sans-serif;
-    margin-left: 20em;
-    color: plum;
-        
+    max-width: 45rem;
+    margin-left: 20rem;
+    margin-top: 1rem;
+    color: plum;     
 }   
 
-.title{
+.title, h1{
     color: plum;
     font-family: 'Press Start 2P', cursive;
-
-}
-
-h1{
-    color: plum;
 }
 
 button{
     background-color: plum;
     color: slateblue;
-
 }
 
 img{
-    border-radius: 2%;
+    width: 45rem;
 }
 
-  
+p{
+    font-family: 'Courier New', Courier, monospace;
+}
