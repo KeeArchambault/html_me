@@ -13,7 +13,8 @@ body{
 
 .title{
     color: plum;
-    font-size: 1rem
+    font-family: 'Press Start 2P', cursive;
+
 }
 
 h1{
@@ -26,5 +27,8 @@ button{
 
 }
 
+img{
+    border-radius: 2%;
+}
 
   
