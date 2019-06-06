@@ -1,13 +1,15 @@
 
-
+html{
+    background-color: plum;
+}
 
 body{
-    background-color: slateblue;
+    background-color: slategrey;
     text-align: justify;
     max-width: 45rem;
     margin-left: 20rem;
-    margin-top: 1rem;
-    color: plum;     
+    color: plum;    
+    padding: 2rem; 
 }   
 
 .title, h1{
