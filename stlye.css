@@ -1,6 +1,6 @@
 
 html{
-    background-color: plum;
+    background-image: url("images/star-pixel.png");
 }
 
 body{
@@ -20,12 +20,31 @@ body{
 button{
     background-color: plum;
     color: slateblue;
+    
 }
 
-img{
+
+img, iframe{
     width: 45rem;
+    border: solid plum 0.2rem;
 }
 
-p{
-    font-family: 'Courier New', Courier, monospace;
+p, h4{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.3rem;
+}
+
+button:link {
+    text-decoration: none;
+}
+ button:hover {
+    color: hotpink;
+}
+
+a{
+    text-decoration: none;
+}
+
+#divider{
+    border-top: solid 0.2rem plum;
 }
