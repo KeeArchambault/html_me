@@ -7,7 +7,9 @@ body{
     background-color: slategrey;
     text-align: justify;
     max-width: 45rem;
-    margin-left: 20rem;
+    margin: 20rem;
+    margin-top:1rem;
+    margin-bottom: 1rem;
     color: plum;    
     padding: 2rem; 
 }   
