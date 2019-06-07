@@ -6,10 +6,11 @@ html{
 body{
     background-color: slategrey;
     text-align: justify;
-    max-width: 35rem;
-    margin: 20rem;
-    margin-top:1rem;
+    max-width: 45rem;
+    margin-left: 15rem;
+    margin-right: 15rem;
     margin-bottom: 1rem;
+    margin-top: 1rem; 
     color: plum;    
     padding: 2rem; 
 }   
@@ -27,7 +28,7 @@ button{
 
 
 img, iframe{
-    width: 35rem;
+    width: 45rem;
     border: solid plum 0.2rem;
 }
 
