@@ -26,7 +26,6 @@ button{
     
 }
 
-
 img, iframe{
     width: 45rem;
     border: solid plum 0.2rem;
@@ -49,5 +48,6 @@ a{
 }
 
 #divider{
+    border-style: none;
     border-top: solid 0.2rem plum;
 }
